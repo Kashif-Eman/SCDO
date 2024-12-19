@@ -1,0 +1,2 @@
+# SCDO
+its personal website
